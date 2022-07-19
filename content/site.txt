@@ -1,0 +1,65 @@
+Title: Camminus
+
+----
+
+Text: Camminus ofrece servicios profesionales de diseño y arquitectura
+
+----
+
+Logo: logo.png
+
+----
+
+Favicon: favicon.png
+
+----
+
+Themecolor: #1089ff
+
+----
+
+Ogtype: website
+
+----
+
+Ogtitle: Camminus
+
+----
+
+Ogdescription: Camminus servicios de arquitectura
+
+----
+
+Ogimage: share.png
+
+----
+
+Backgroundloader: backgroundloader.png
+
+----
+
+Backgroundmenu: camminus-1603707314693-blur.jpg
+
+----
+
+Logoloader: logoblue.png
+
+----
+
+Logomenu: camminus-1637541953422.png
+
+----
+
+Themebackground: #333333
+
+----
+
+Styleloader: 
+
+----
+
+Stylemenu: filter: bri
+
+----
+
+Googleanalytics: 
